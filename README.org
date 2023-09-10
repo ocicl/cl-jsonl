@@ -4,6 +4,6 @@ Efficient JSON File Iteration
 
 |---------+---------------------------------------------|
 | source  | git:https://github.com/plandes/cl-jsonl.git |
-| commit  | ce79682                                     |
+| commit  | ca813e0                                     |
 | systems | cl-jsonl                                    |
 |---------+---------------------------------------------|
